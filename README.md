@@ -8,7 +8,7 @@
 * 深入理解GC三色标记与混合写屏障
 * Golang技术性能调优
 
-[看云阅读版](https://www.kancloud.cn/aceld/golang)
+[语雀阅读版](https://yuque.com/aceld)
 
 
 ## 开源地址: 
