@@ -10,6 +10,8 @@
 
 [语雀阅读版](https://yuque.com/aceld)
 
+> 注意: 语雀阅读版新增《一站式Golang内存洗髓经》篇
+
 
 ## 开源地址: 
 
@@ -20,6 +22,7 @@ Gitee:https://gitee.com/Aceld/golang
 
 
 >  作者:刘丹冰Aceld
+> 
 > ![](images/0-作者公众号刘丹冰Aceld.jpg)
 ---
 
