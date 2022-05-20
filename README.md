@@ -8,7 +8,7 @@
 * 深入理解GC三色标记与混合写屏障
 * Golang技术性能调优
 
-[语雀阅读版](https://yuque.com/aceld)
+## [语雀阅读版](https://yuque.com/aceld)
 
 > 注意: 语雀阅读版新增《一站式Golang内存洗髓经》篇
 
