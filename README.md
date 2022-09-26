@@ -52,3 +52,28 @@ Gitee:https://gitee.com/Aceld/golang
     * [5、单点Server的N种并发模型汇总](5、单点Server的N种并发模型汇总.md)
     * [6、TCP中TIME_WAIT状态意义详解](6、TCP中TIME_WAIT状态意义详解.md)
     * [7、动态保活Worker工作池设计](7、一种实时动态保活的Worker工作池设计机制.md)
+    
+本书包括重点章节教学视频
+
+## 📺视频一、《Golang深入理解GPM模型》
+| platform | link |  
+| ---- | ---- | 
+|<img src="https://s1.ax1x.com/2022/09/22/xFePUK.png" width = "100" height = "100" alt="" align=center />|https://www.bilibili.com/video/BV19r4y1w7Nx|
+|<img src="https://s1.ax1x.com/2022/09/22/xFeRVx.png" width = "100" height = "100" alt="" align=center />|https://www.douyin.com/video/7135998503377046820 | 
+
+
+## 📺视频二、《Golang深入理解GC三色标记与混合写屏障》
+| platform | link |  
+| ---- | ---- | 
+|<img src="https://s1.ax1x.com/2022/09/22/xFePUK.png" width = "100" height = "100" alt="" align=center />|https://www.bilibili.com/video/BV1wz4y1y7Kd|
+|<img src="https://s1.ax1x.com/2022/09/22/xFeRVx.png" width = "100" height = "100" alt="" align=center />|https://www.douyin.com/video/6981827730933419271| 
+|<img src="https://s1.ax1x.com/2022/09/23/xkQcng.png" width = "100" height = "100" alt="" align=center />|https://www.youtube.com/watch?v=QqblICkRBKA&list=PL_GrAPKmuajz6T5EBXGbEgx9LciuuryHD|
+
+
+## 📺视频三、《Linux深入理解IO复用并发模型》
+| platform | link |  
+| ---- | ---- | 
+|<img src="https://s1.ax1x.com/2022/09/22/xFePUK.png" width = "100" height = "100" alt="" align=center />|https://www.bilibili.com/video/BV1jK4y1N7ST|
+|<img src="https://s1.ax1x.com/2022/09/22/xFeRVx.png" width = "100" height = "100" alt="" align=center />|https://www.douyin.com/video/7142675640242769159| 
+
+
