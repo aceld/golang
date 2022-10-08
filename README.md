@@ -76,4 +76,20 @@ Gitee:https://gitee.com/Aceld/golang
 |<img src="https://s1.ax1x.com/2022/09/22/xFePUK.png" width = "100" height = "100" alt="" align=center />|https://www.bilibili.com/video/BV1jK4y1N7ST|
 |<img src="https://s1.ax1x.com/2022/09/22/xFeRVx.png" width = "100" height = "100" alt="" align=center />|https://www.douyin.com/video/7142675640242769159| 
 
+---
 
+## 原创作品
+
+| 刘丹冰Aceld | ![image.png](https://static.golangjob.cn/221008/b4d7cb9e6382f5facbc2bd707d91f5ad.png)| 
+| ---- | ---- | 
+|技术知识库|https://www.yuque.com/aceld|
+|---|---|
+||[《Golang修养之路》](https://www.yuque.com/aceld/golang/ithv8f)|
+||[《8小时转职Golang工程师》](https://www.yuque.com/aceld/mo95lb/dsk886)|
+||[《zinx-Golang轻量级Tcp服务器框架》](https://www.yuque.com/aceld/npyr8s/bgftov)|
+|代表作品|[《Lars-基于C++负载均衡远程服务器调度系统》](https://www.yuque.com/aceld/wbs5h3/ggzqva)|
+||[《libevent深入浅出》](https://www.yuque.com/aceld/vwi2dk/sss79n)|
+||[《Nginx中文入门手册》](https://www.yuque.com/aceld/fpknid/pzxaev)|
+||[《Linux上Lua应用实战与人工智能》](https://www.yuque.com/aceld/pxbsur/sg3adg)|
+|---|---|
+|github|https://github.com/aceld|
