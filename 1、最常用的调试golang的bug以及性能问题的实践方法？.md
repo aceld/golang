@@ -573,7 +573,7 @@ func main() {
 
 ```
 
-这里面还是启动了pprof的坚挺,有关`pprof`启动的代码如下
+这里面还是启动了pprof的监听,有关`pprof`启动的代码如下
 
 ```go
 import (
