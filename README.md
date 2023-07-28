@@ -2,7 +2,7 @@
 
 ### 出版计算机图书
 
-![](images/深入理解Go语言.jpg)
+![深入理解Go语言](https://github.com/aceld/golang/assets/7778936/2ec54a86-449d-4a6f-b820-fab37d00c9ee)
 
 
 | 平台 |  链接 |
